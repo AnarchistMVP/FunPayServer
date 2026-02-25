@@ -1,1 +1,1 @@
-# FunPayServer
+bot.git
